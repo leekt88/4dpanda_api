@@ -1,0 +1,378 @@
+CRITICAL - 2024-07-09 01:36:23 --> Error: Call to undefined function App\Commands\filter()
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 65.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 01:39:33 --> Error: Call to undefined function App\Commands\filter()
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 65.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 01:40:50 --> Error: Call to undefined function App\Commands\filter()
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 65.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 01:50:48 --> Error: Call to undefined function App\Commands\str_repalce()
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 77.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 02:12:45 --> Error: Call to undefined function App\Commands\str_repalce()
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 87.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 02:17:11 --> Error: Class "App\Commands\DateTime" not found
+[Method: CLI, Route: lottery:fetchsingaporepools]
+in APPPATH/Commands/FetchSingaporePools.php on line 94.
+ 1 APPPATH/Commands/FetchSingaporePools.php(28): App\Commands\FetchToto->fetchTotoData()
+ 2 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 3 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 4 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 5 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 6 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 02:32:13 --> ErrorException: Undefined variable $li
+[Method: CLI, Route: lottery:fetchsingaporepools/SGP4D]
+in APPPATH/Commands/FetchSingaporePools.php on line 138.
+ 1 APPPATH/Commands/FetchSingaporePools.php(138): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSingaporePools.php(24): App\Commands\FetchToto->fetch4DData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 02:32:56 --> ErrorException: Undefined variable $firstLi
+[Method: CLI, Route: lottery:fetchsingaporepools/SGP4D]
+in APPPATH/Commands/FetchSingaporePools.php on line 145.
+ 1 APPPATH/Commands/FetchSingaporePools.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSingaporePools.php(24): App\Commands\FetchToto->fetch4DData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 02:33:25 --> ErrorException: Undefined variable $drawDate
+[Method: CLI, Route: lottery:fetchsingaporepools/SGP4D]
+in APPPATH/Commands/FetchSingaporePools.php on line 182.
+ 1 APPPATH/Commands/FetchSingaporePools.php(182): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSingaporePools.php(24): App\Commands\FetchToto->fetch4DData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchToto->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 07:50:12 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=First): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:31 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetch/H4D/15:30:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:32 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetchothers/LMC/15:30:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:32 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:36 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetch/H4D/15:30:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:37 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetchothers/LMC/15:30:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 08:36:37 --> ParseError: syntax error, unexpected token ","
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Config/Routes.php on line 55.
+ 1 SYSTEMPATH/CLI/Console.php(41): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 3 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 4 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:01:12 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:18:43 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:27:02 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:03 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:08 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:13 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:18 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:23 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:28 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:33 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:38 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:43 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:48 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:53 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:29:58 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:37:56 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:40:27 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:41:01 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 11:55:28 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 12:06:18 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 12:09:56 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-09 12:16:42 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()

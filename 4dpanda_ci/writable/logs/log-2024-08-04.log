@@ -1,0 +1,232 @@
+ERROR - 2024-08-04 07:30:10 --> mysqli_sql_exception: Incorrect DATE value: 'undefined' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 07:30:10 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 07:30:12 --> mysqli_sql_exception: Incorrect DATE value: 'undefined' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 07:30:12 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 09:35:49 --> mysqli_sql_exception: Incorrect DATE value: '03-08-2024 (Sat)' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 09:35:49 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 09:35:51 --> mysqli_sql_exception: Incorrect DATE value: '03-08-2024 (Sat)' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 09:35:51 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 09:35:54 --> mysqli_sql_exception: Incorrect DATE value: '03-08-2024 (Sat)' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 09:35:54 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 09:37:49 --> mysqli_sql_exception: Incorrect DATE value: '03-08-2024' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 09:37:49 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 13:53:56 --> mysqli_sql_exception: Incorrect DATE value: '{"PastResultsRange":{"PastResults":[{"DrawDate":"04/08/2024","DrawID":"075/24","DrawDay":"SUN","DrawDayZh":"星期日","FirstPri' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 13:53:56 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-08-04 14:24:49 --> mysqli_sql_exception: Incorrect DATE value: '{"PastResultsRange":{"PastResults":[{"DrawDate":"04/08/2024","DrawID":"075/24","DrawDay":"SUN","DrawDayZh":"星期日","FirstPri' in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-08-04 14:24:49 --> Error: Call to a member function getResult() on bool
+[Method: POST, Route: fetchpastresults]
+in SYSTEMPATH/Model.php on line 276.
+ 1 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 2 APPPATH/Models/LotteryModel.php(31): CodeIgniter\BaseModel->findAll()
+ 3 APPPATH/Controllers/LotteryData.php(82): App\Models\LotteryModel->getLotteryDataByDate()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\LotteryData->fetch_past_results()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

@@ -1,0 +1,481 @@
+CRITICAL - 2025-02-01 06:11:37 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: fetchhistoryresults]
+in APPPATH/Controllers/SearchController.php on line 118.
+ 1 APPPATH/Controllers/SearchController.php(118): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->fetchhistoryresultsIndex()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:36:49 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:36:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+ 6 APPPATH/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+ 7 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:36:55 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:36:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: history/8698]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:02 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: singapore-4d-results]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+ 7 APPPATH/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:03 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: singapore-4d-results]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+ 7 APPPATH/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:03 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: singapore-4d-results]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/SettingsModel.php(45): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Home.php(299): App\Models\SettingsModel->getSiteMeta()
+ 7 APPPATH/Controllers/Home.php(173): App\Controllers\Home->getMetaData()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->singaporeresultsindex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:12 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: history/3718]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:28 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: history/1180]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:45 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2025-02-01 11:37:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Models/LotteryModel.php(23): CodeIgniter\BaseModel->first()
+ 6 APPPATH/Controllers/Home.php(64): App\Models\LotteryModel->getLotteryDataByType()
+ 7 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-02-01 11:37:46 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/PostController.php(176): CodeIgniter\BaseModel->first()
+#7 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\PostController->view()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/PostController.php(176): CodeIgniter\BaseModel->first()
+#6 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\PostController->view()
+#7 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#11 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#12 {main}
+CRITICAL - 2025-02-01 11:37:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: favicon.ico]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/PostController.php(176): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PostController->view()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

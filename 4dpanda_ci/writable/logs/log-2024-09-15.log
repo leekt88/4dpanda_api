@@ -1,0 +1,744 @@
+CRITICAL - 2024-09-15 05:03:54 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:04:50 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:09:44 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 126.
+ 1 APPPATH/Controllers/MobileAPIController.php(126): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:14:05 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 126.
+ 1 APPPATH/Controllers/MobileAPIController.php(126): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:14:28 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:14:40 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:15:59 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:18:00 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:18:12 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:18:21 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:18:25 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:20:02 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:23:22 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:23:40 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:36:28 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:38:04 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 05:41:05 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 126.
+ 1 APPPATH/Controllers/MobileAPIController.php(126): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:01:41 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 126.
+ 1 APPPATH/Controllers/MobileAPIController.php(126): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:01:45 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 90.
+ 1 APPPATH/Controllers/MobileAPIController.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:30:13 --> Error: Class "App\Controllers\MobileFavouriteNumbersPermutationModel" not found
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:31:49 --> Error: Class "App\Controllers\MobileFavouriteNumbersPermutationModel" not found
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:32:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:32:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:32:14 --> Error: Class "App\Controllers\MobileFavouriteNumbersPermutationModel" not found
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:33:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:33:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:33:12 --> Error: Class "App\Controllers\MobileFavouriteNumbersPermutationModel" not found
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:34:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:34:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:34:01 --> Error: Class "App\Controllers\MobileFavouriteNumbersPermutationModel" not found
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:34:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:34:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:34:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:34:58 --> Error: Call to undefined function App\Controllers\jsondecode()
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 81.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:35:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:35:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:35:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:35:40 --> ErrorException: Undefined variable $favourite_number
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 97.
+ 1 APPPATH/Controllers/MobileAPIController.php(97): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:36:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:36:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:36:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-09-15 10:36:04 --> mysqli_sql_exception: Column 'favourite_number' cannot be null in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(308): mysqli->query()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(840): CodeIgniter\Model->doInsert()
+#6 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(791): CodeIgniter\BaseModel->insert()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Models/MobileFavouriteNumbersModel.php(35): CodeIgniter\Model->insert()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/MobileAPIController.php(100): App\Models\MobileFavouriteNumbersModel->addFavouriteNumber()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+CRITICAL - 2024-09-15 10:36:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'favourite_number' cannot be null
+[Method: GET, Route: api/add_favourite_numbers]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(791): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Models/MobileFavouriteNumbersModel.php(35): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/MobileAPIController.php(100): App\Models\MobileFavouriteNumbersModel->addFavouriteNumber()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:36:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'favourite_number' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert()
+ 6 SYSTEMPATH/Model.php(791): CodeIgniter\BaseModel->insert()
+ 7 APPPATH/Models/MobileFavouriteNumbersModel.php(35): CodeIgniter\Model->insert()
+ 8 APPPATH/Controllers/MobileAPIController.php(100): App\Models\MobileFavouriteNumbersModel->addFavouriteNumber()
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+12 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 10:36:04 --> [Caused by] mysqli_sql_exception: Column 'favourite_number' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert()
+ 7 SYSTEMPATH/Model.php(791): CodeIgniter\BaseModel->insert()
+ 8 APPPATH/Models/MobileFavouriteNumbersModel.php(35): CodeIgniter\Model->insert()
+ 9 APPPATH/Controllers/MobileAPIController.php(100): App\Models\MobileFavouriteNumbersModel->addFavouriteNumber()
+10 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+11 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+13 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+15 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:36:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:36:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:36:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:37:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:37:27 --> ErrorException: Undefined variable $permutation_numbers
+[Method: GET, Route: api/add_favourite_numbers]
+in APPPATH/Models/MobileFavouriteNumbersPermutationModel.php on line 21.
+ 1 APPPATH/Models/MobileFavouriteNumbersPermutationModel.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/MobileAPIController.php(105): App\Models\MobileFavouriteNumbersPermutationModel->addPermutationNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:38:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:38:50 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 137.
+ 1 APPPATH/Controllers/MobileAPIController.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:38:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:38:59 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 137.
+ 1 APPPATH/Controllers/MobileAPIController.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:39:09 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 137.
+ 1 APPPATH/Controllers/MobileAPIController.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:39:18 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 137.
+ 1 APPPATH/Controllers/MobileAPIController.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-09-15 10:40:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$notificationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-09-15 10:40:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\MobileAPIController::$favouriteNumberPermutationModel is deprecated in APPPATH/Controllers/MobileAPIController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\MobileAPIController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-09-15 10:40:58 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/remove_favourite_number]
+in APPPATH/Controllers/MobileAPIController.php on line 137.
+ 1 APPPATH/Controllers/MobileAPIController.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->removeFavouriteNumber()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 13:43:20 --> TypeError: json_decode(): Argument #1 ($json) must be of type string, array given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 81.
+ 1 APPPATH/Controllers/MobileAPIController.php(81): json_decode()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-15 13:43:37 --> TypeError: json_decode(): Argument #1 ($json) must be of type string, array given
+[Method: POST, Route: api/add_favourite_numbers]
+in APPPATH/Controllers/MobileAPIController.php on line 81.
+ 1 APPPATH/Controllers/MobileAPIController.php(81): json_decode()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MobileAPIController->addFavouriteNumbers()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

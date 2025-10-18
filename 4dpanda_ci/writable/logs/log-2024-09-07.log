@@ -1,0 +1,120 @@
+CRITICAL - 2024-09-07 00:17:29 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:19:24 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:19:28 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:56:15 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:56:20 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:56:45 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:56:47 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 00:58:03 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 01:03:15 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 01:05:32 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 01:06:25 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-09-07 02:50:49 --> TypeError: explode(): Argument #2 ($string) must be of type string, array given
+[Method: POST, Route: api/fetch_number_history]
+in APPPATH/Controllers/SearchController.php on line 163.
+ 1 APPPATH/Controllers/SearchController.php(163): explode()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->apiNumberHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

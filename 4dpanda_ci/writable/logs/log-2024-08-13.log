@@ -1,0 +1,2680 @@
+CRITICAL - 2024-08-13 11:00:02 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:07 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:25 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:31 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:37 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:49 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:00:53 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:01 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:07 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:25 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:31 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:37 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:49 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:01:53 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:02 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:08 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:14 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:20 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:26 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:32 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:38 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:44 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:50 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:02:54 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:00 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:06 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:12 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:18 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:24 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:30 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:36 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:42 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:48 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:03:52 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:02 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:08 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:26 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:32 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:38 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:50 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:04:54 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:01 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:07 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:25 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:31 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:37 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:49 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:05:53 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:01 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:07 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:25 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:31 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:37 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:49 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:06:53 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:00 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:06 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:12 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:18 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:24 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:30 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:36 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:42 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:48 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:07:52 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:02 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:08 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:14 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:20 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:26 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:32 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:38 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:44 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:50 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:08:54 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:02 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:08 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:14 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:20 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:26 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:32 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:38 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:44 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:50 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:09:54 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:01 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:07 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:13 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:19 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:25 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:31 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:37 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:43 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:49 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:10:53 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:01 --> ErrorException: Undefined array key "V1"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 284.
+ 1 APPPATH/Commands/FetchOthers.php(284): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:07 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:13 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:19 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:25 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:31 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:37 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:43 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:49 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:11:53 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:00 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:06 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:12 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:18 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:24 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:30 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:36 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:42 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:48 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:12:52 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:02 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:08 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:14 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:20 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:26 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:32 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:38 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:44 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:50 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:13:54 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:01 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:08 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:13 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:19 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:25 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:31 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:38 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:43 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:49 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:14:53 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:01 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:07 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:13 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:19 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:25 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:31 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:37 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:43 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:49 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:15:53 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:01 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:07 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:13 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:19 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:25 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:31 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:37 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:43 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:49 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:16:53 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:00 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:06 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:12 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:18 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:24 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:30 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:36 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:42 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:48 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:17:52 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:02 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:08 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:14 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:20 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:26 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:32 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:38 --> ErrorException: Undefined array key "L5G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:44 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:50 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:18:54 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:02 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:08 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:14 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:20 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:26 --> ErrorException: Undefined array key "L5G21"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:32 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:38 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:43 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:49 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:19:54 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:01 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:07 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:13 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:19 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:25 --> ErrorException: Undefined array key "L5G61"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 300.
+ 1 APPPATH/Commands/FetchOthers.php(300): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:31 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:37 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:43 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:49 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:20:53 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:01 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:07 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:13 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:19 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:25 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:31 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:37 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:43 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:49 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:21:53 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:00 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:06 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:12 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:18 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:24 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:30 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:36 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:42 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:48 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:22:52 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:02 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:08 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:14 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:20 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:26 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:32 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:23:38 --> ErrorException: Undefined array key "L6G11"
+[Method: CLI, Route: lottery:fetchothers/SB]
+in APPPATH/Commands/FetchOthers.php on line 310.
+ 1 APPPATH/Commands/FetchOthers.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(34): App\Commands\FetchOthers->fetchSabahData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:03 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:08 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:13 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:18 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:23 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:28 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:33 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:38 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:43 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:48 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:53 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:29:58 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 54.
+ 1 APPPATH/Commands/FetchOthers.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:36:16 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://www.damacai.com.my/home` resulted in a `524 ` response:
+error code: 524
+
+[Method: CLI, Route: lottery:fetch/DMC]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(283): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(178): App\Commands\FetchLotteryData->parseAndStoreDamacaiData()
+13 APPPATH/Commands/FetchLotteryData.php(27): App\Commands\FetchLotteryData->fetchDamacai()
+14 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+15 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+16 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+17 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+18 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 11:37:34 --> GuzzleHttp\Exception\RequestException: cURL error 18: transfer closed with outstanding read data remaining (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.damacai.com.my/home
+[Method: CLI, Route: lottery:fetch/DMC]
+in VENDORPATH/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 211.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Handler/CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection()
+ 2 VENDORPATH/guzzlehttp/guzzle/src/Handler/CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError()
+ 3 VENDORPATH/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish()
+ 4 VENDORPATH/guzzlehttp/guzzle/src/Handler/Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke()
+ 5 VENDORPATH/guzzlehttp/guzzle/src/Handler/Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}()
+ 6 VENDORPATH/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}()
+ 7 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke()
+ 8 VENDORPATH/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 9 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\RedirectMiddleware->__invoke()
+10 VENDORPATH/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+11 VENDORPATH/guzzlehttp/guzzle/src/Client.php(333): GuzzleHttp\HandlerStack->__invoke()
+12 VENDORPATH/guzzlehttp/guzzle/src/Client.php(169): GuzzleHttp\Client->transfer()
+13 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Client->requestAsync()
+14 APPPATH/Commands/FetchLotteryData.php(283): GuzzleHttp\Client->request()
+15 APPPATH/Commands/FetchLotteryData.php(178): App\Commands\FetchLotteryData->parseAndStoreDamacaiData()
+16 APPPATH/Commands/FetchLotteryData.php(27): App\Commands\FetchLotteryData->fetchDamacai()
+17 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+18 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+19 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+20 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+21 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:31 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:36 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:41 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:46 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:51 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:07:56 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:01 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:05 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:10 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:15 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:20 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:25 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-08-13 12:08:30 --> ErrorException: file_get_contents(https://magnum4d-ep02.azureedge.net/public/HomePageData.js): Failed to open stream: Connection timed out
+[Method: CLI, Route: lottery:magnum/M4D]
+in APPPATH/Commands/FetchMagnum.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchMagnum.php(26): file_get_contents()
+ 3 APPPATH/Commands/FetchMagnum.php(19): App\Commands\FetchMagnum->fetchMagnumData()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchMagnum->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()

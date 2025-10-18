@@ -1,0 +1,591 @@
+CRITICAL - 2024-07-14 08:52:12 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=First): Failed to open stream: HTTP request failed!
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(322): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:32 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:34 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:36 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:39 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:44 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:49 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:54 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:15:59 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:06 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:11 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:16 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:21 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:26 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:31 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:36 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:41 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:46 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:51 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:16:56 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:01 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:05 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:10 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:15 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:20 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:25 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:30 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:35 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:40 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:45 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:50 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:55 --> ErrorException: Undefined array key 3
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 36.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:17:57 --> ErrorException: Undefined array key 6
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 40.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:00 --> ErrorException: Undefined array key 6
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 40.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:04 --> ErrorException: Undefined array key 6
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 40.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:09 --> ErrorException: Undefined array key 6
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 40.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:14 --> ErrorException: Undefined array key 6
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 40.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:19 --> ErrorException: Undefined array key 14
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 43.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:19 --> ErrorException: Undefined array key 14
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 43.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:24 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:29 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:34 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:39 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:44 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:49 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:55 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:18:59 --> ErrorException: Undefined array key 28
+[Method: CLI, Route: lottery:specialcashsweep]
+in APPPATH/Commands/FetchSpecialCashSweep.php on line 47.
+ 1 APPPATH/Commands/FetchSpecialCashSweep.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchSpecialCashSweep.php(18): App\Commands\FetchSpecialCashSweep->fetchSpecialCashSweepData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchSpecialCashSweep->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:02 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:07 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:12 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:17 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:22 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:27 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:32 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:37 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:42 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:47 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:52 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2024-07-14 11:29:57 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 57.
+ 1 APPPATH/Commands/FetchOthers.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()

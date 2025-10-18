@@ -1,0 +1,733 @@
+CRITICAL - 2025-05-05 07:38:02 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=First): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 387.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(387): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 08:38:52 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=First): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/15:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 387.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(387): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:04:53 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 387.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(387): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:08:23 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 387.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(387): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:19:03 --> ErrorException: file_get_contents(https://www.perdana4d.com/Index?handler=Refresh): Failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+
+[Method: CLI, Route: lottery:fetch/P4D/19:00:00]
+in APPPATH/Commands/FetchLotteryData.php on line 387.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchLotteryData.php(387): file_get_contents()
+ 3 APPPATH/Commands/FetchLotteryData.php(31): App\Commands\FetchLotteryData->fetchPerdana()
+ 4 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+ 5 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 6 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 7 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 8 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:02 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:12 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:22 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:32 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:42 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:29:52 --> ErrorException: Undefined array key "spec1"
+[Method: CLI, Route: lottery:fetchothers/LMC/19:30:00]
+in APPPATH/Commands/FetchOthers.php on line 61.
+ 1 APPPATH/Commands/FetchOthers.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Commands/FetchOthers.php(24): App\Commands\FetchOthers->fetchLotoMacaoData()
+ 3 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchOthers->run()
+ 4 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+ 5 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+ 6 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+ 7 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:35:24 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:36:44 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:37:03 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:46:03 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:46:43 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:50:11 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://www.damacai.com.my/home` resulted in a `524 ` response:
+error code: 524
+
+[Method: CLI, Route: lottery:fetch/DMC]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(289): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(183): App\Commands\FetchLotteryData->parseAndStoreDamacaiData()
+13 APPPATH/Commands/FetchLotteryData.php(27): App\Commands\FetchLotteryData->fetchDamacai()
+14 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+15 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+16 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+17 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+18 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:50:21 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://www.damacai.com.my/home` resulted in a `524 ` response:
+error code: 524
+
+[Method: CLI, Route: lottery:fetch/DMC]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(289): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(183): App\Commands\FetchLotteryData->parseAndStoreDamacaiData()
+13 APPPATH/Commands/FetchLotteryData.php(27): App\Commands\FetchLotteryData->fetchDamacai()
+14 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+15 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+16 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+17 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+18 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:50:23 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:50:33 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:50:53 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:51:14 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:51:34 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:51:44 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:52:24 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:52:34 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:52:44 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:53:04 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:53:13 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:53:33 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:53:54 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 11:54:04 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://gdlotto.com/results/ajax/_result.aspx` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width= (truncated...)
+
+[Method: CLI, Route: lottery:fetch/GD]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(505): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(35): App\Commands\FetchLotteryData->fetechGrandDragon()
+13 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+14 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+15 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+16 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+17 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+CRITICAL - 2025-05-05 14:50:49 --> GuzzleHttp\Exception\ServerException: Server error: `GET https://www.damacai.com.my/home` resulted in a `521 ` response:
+error code: 521
+
+[Method: CLI, Route: lottery:fetch/DMC]
+in VENDORPATH/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113.
+ 1 VENDORPATH/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create()
+ 2 VENDORPATH/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+ 3 VENDORPATH/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler()
+ 4 VENDORPATH/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run()
+ 6 VENDORPATH/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH/Commands/FetchLotteryData.php(289): GuzzleHttp\Client->request()
+12 APPPATH/Commands/FetchLotteryData.php(183): App\Commands\FetchLotteryData->parseAndStoreDamacaiData()
+13 APPPATH/Commands/FetchLotteryData.php(27): App\Commands\FetchLotteryData->fetchDamacai()
+14 SYSTEMPATH/CLI/Commands.php(70): App\Commands\FetchLotteryData->run()
+15 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+16 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+17 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+18 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()
+ERROR - 2025-05-05 22:17:41 --> Error connecting to the database: mysqli_sql_exception: Permission denied in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Commands/MobileNotificationSender.php(103): App\Models\LotteryModel->getLotteryDrawStartToSend()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Commands/MobileNotificationSender.php(35): App\Commands\MobileNotificationSender->getLottertTypeToSend()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CLI/Commands.php(70): App\Commands\MobileNotificationSender->run()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(338): CodeIgniter\CLI\Console->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(104): CodeIgniter\Boot::runCommand()
+#13 /var/www/4dpanda.com/4dpanda_ci/spark(84): CodeIgniter\Boot::bootSpark()
+#14 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Permission denied in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/LotteryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Commands/MobileNotificationSender.php(103): App\Models\LotteryModel->getLotteryDrawStartToSend()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Commands/MobileNotificationSender.php(35): App\Commands\MobileNotificationSender->getLottertTypeToSend()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CLI/Commands.php(70): App\Commands\MobileNotificationSender->run()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(338): CodeIgniter\CLI\Console->run()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 /var/www/4dpanda.com/4dpanda_ci/spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+CRITICAL - 2025-05-05 22:17:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Permission denied
+[Method: CLI, Route: notifications:send]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/LotteryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Commands/MobileNotificationSender.php(103): App\Models\LotteryModel->getLotteryDrawStartToSend()
+ 7 APPPATH/Commands/MobileNotificationSender.php(35): App\Commands\MobileNotificationSender->getLottertTypeToSend()
+ 8 SYSTEMPATH/CLI/Commands.php(70): App\Commands\MobileNotificationSender->run()
+ 9 SYSTEMPATH/CLI/Console.php(48): CodeIgniter\CLI\Commands->run()
+10 SYSTEMPATH/Boot.php(338): CodeIgniter\CLI\Console->run()
+11 SYSTEMPATH/Boot.php(104): CodeIgniter\Boot::runCommand()
+12 ROOTPATH/spark(84): CodeIgniter\Boot::bootSpark()

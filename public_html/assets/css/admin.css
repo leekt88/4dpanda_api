@@ -1,0 +1,309 @@
+/* public/css/backend.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.sidebar {
+    width: 250px;
+    background: #333;
+    color: #fff;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar-header {
+    padding: 20px;
+    background: #444;
+}
+
+.sidebar ul {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 15px;
+    text-align: left;
+    display: flex;
+}
+
+.sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    background: #575757;
+}
+
+.content {
+    margin-left: 250px;
+    padding: 20px;
+    width: 100%;
+    background: #fff;
+    min-height: 100vh;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left:250px;
+}
+.container-2 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header img {
+    max-width: 150px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+form input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px;
+    background-color: #25aae2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #58585a;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f9f9f9;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.success {
+    color: green;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+.sidebar nav ul li{
+    display: flex;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+.cke_notification_warning{display: none !important;}
+
+.title {
+    margin-top: 0;
+    color: #d9534f;
+}
+
+.field {
+    margin-bottom: 15px;
+}
+
+.settings-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width:100%;
+}
+
+textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+.settings-logo,
+.settings-favicon {
+    margin-top: 10px;
+    max-width: 100px;
+}
+
+.settings-subtitle {
+    color: #d9534f;
+}
+
+.settings-options-container {
+    margin-bottom: 15px;
+}
+
+.option-pair {
+    margin-bottom: 10px;
+}
+
+.option-pair input[type="text"] {
+    margin-right: 10px;
+}
+
+.btn-add-option,
+.btn-save-settings {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #25aae2;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn-add-option:hover,
+.btn-save-settings:hover {
+    background-color: #1e94c4;
+}
+
+.alert {
+    padding: 15px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #343a40;
+    color: #fff;
+    padding-top: 20px;
+}
+
+.sidebar-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: #212529;
+}
+
+.sidebar-header .navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.sidebar-header h3 {
+    margin-top: 10px;
+    color: #fff;
+}
+
+.sidebar ul.components {
+    padding: 0;
+}
+
+.sidebar ul li {
+    padding: 10px;
+    list-style: none;
+    text-align: left;
+}
+
+.sidebar ul li a {
+    color: #d1d1d1;
+    text-decoration: none;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    transition: background 0.3s;
+}
+
+.sidebar ul li a i {
+    margin-right: 10px;
+}
+
+.sidebar ul li a:hover {
+    background: #495057;
+    color: #fff;
+}
+
+.sidebar ul li a:hover i {
+    color: #fff;
+}

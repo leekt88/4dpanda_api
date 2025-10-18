@@ -1,0 +1,424 @@
+CRITICAL - 2024-07-22 00:39:57 --> ErrorException: Undefined variable $default_settings
+[Method: GET, Route: admin/settings]
+in APPPATH/Views/backend/settings/settings.php on line 169.
+ 1 APPPATH/Views/backend/settings/settings.php(169): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/backend/settings/settings.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin/SettingsController.php(56): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\SettingsController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2024-07-22 00:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-22 00:46:20 --> ErrorException: Undefined variable $default_settings
+[Method: GET, Route: admin/settings]
+in APPPATH/Views/backend/settings/settings.php on line 169.
+ 1 APPPATH/Views/backend/settings/settings.php(169): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/backend/settings/settings.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin/SettingsController.php(56): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\SettingsController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2024-07-22 00:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-22 00:48:34 --> ErrorException: Undefined variable $dynamic_options
+[Method: GET, Route: admin/settings]
+in APPPATH/Views/backend/settings/settings.php on line 207.
+ 1 APPPATH/Views/backend/settings/settings.php(207): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/backend/settings/settings.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin/SettingsController.php(56): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\SettingsController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+INFO - 2024-07-22 00:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-22 04:00:25 --> ErrorException: Undefined variable $respone
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 88.
+ 1 APPPATH/Controllers/Home.php(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(98): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:02 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:06 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:08 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:14 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:26 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: cambodia-4d-results]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(178): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->cambodiaresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:24:48 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: malaysia-4d-results]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(97): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:27:07 --> ErrorException: Undefined variable $_d
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 90.
+ 1 APPPATH/Controllers/Home.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(103): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:49:00 --> ErrorException: Undefined variable $past_results
+[Method: GET, Route: results/damacai]
+in APPPATH/Views/frontend/template_parts/malaysia_results_content.php on line 4.
+ 1 APPPATH/Views/frontend/template_parts/malaysia_results_content.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/malaysia_results_content.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/frontend/template_parts/home_content.php(14): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 7 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 9 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+10 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+11 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+13 APPPATH/Controllers/Home.php(128): view()
+14 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+15 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+16 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+17 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+19 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:54:55 --> ErrorException: Undefined array key 1
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 86.
+ 1 APPPATH/Controllers/Home.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(111): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:56:36 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: results/magnum]
+in APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php on line 12.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/frontend/template_parts/home_content.php(15): CodeIgniter\View\View->include()
+ 5 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 6 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 8 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+ 9 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+10 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+12 APPPATH/Controllers/Home.php(128): view()
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+18 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 04:58:07 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: results/magnum]
+in APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php on line 13.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/frontend/template_parts/home_content.php(15): CodeIgniter\View\View->include()
+ 5 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 6 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 8 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+ 9 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+10 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+12 APPPATH/Controllers/Home.php(128): view()
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+18 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:06:39 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:06:42 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:06:43 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:07:27 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:09:14 --> ErrorException: Undefined array key "data"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 65.
+ 1 APPPATH/Controllers/Home.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(21): App\Controllers\Home->fetchAll()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-07-22 05:09:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:09:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:10:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:10:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:10:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:10:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:10:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 05:10:41 --> ErrorException: Undefined array key 2
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 88.
+ 1 APPPATH/Controllers/Home.php(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(111): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:12:03 --> ErrorException: Undefined array key 2
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 88.
+ 1 APPPATH/Controllers/Home.php(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(111): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 05:12:40 --> ErrorException: Undefined array key 2
+[Method: GET, Route: results/magnum]
+in APPPATH/Controllers/Home.php on line 88.
+ 1 APPPATH/Controllers/Home.php(88): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(111): App\Controllers\Home->fetchPastByType()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+WARNING - 2024-07-22 05:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-22 05:13:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\LotteryData::$settingModel is deprecated in APPPATH/Controllers/LotteryData.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\LotteryData->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-22 07:36:41 --> Error: Call to undefined function strtotoime()
+[Method: GET, Route: results/magnum]
+in APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php on line 13.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 4 APPPATH/Views/frontend/template_parts/home_content.php(15): CodeIgniter\View\View->include()
+ 5 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 6 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 8 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+ 9 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+10 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+12 APPPATH/Controllers/Home.php(132): view()
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+18 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 07:37:07 --> TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given
+[Method: GET, Route: results/magnum]
+in APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php on line 13.
+ 1 APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php(13): date()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/past_results/malaysia_past_results_content.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/frontend/template_parts/home_content.php(15): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 7 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 9 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+10 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+11 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+13 APPPATH/Controllers/Home.php(132): view()
+14 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+15 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+16 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+17 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+19 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-07-22 07:37:08 --> TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given
+[Method: GET, Route: results/magnum]
+in APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php on line 13.
+ 1 APPPATH/Views/frontend/template_parts/past_results/malaysia_past_results_content.php(13): date()
+ 2 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/past_results/malaysia_past_results_content.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/frontend/template_parts/home_content.php(15): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/template_parts/home_content.php')
+ 7 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/View/View.php(484): CodeIgniter\View\View->render()
+ 9 APPPATH/Views/frontend/home.php(37): CodeIgniter\View\View->include()
+10 SYSTEMPATH/View/View.php(234): include('/var/www/4dpanda.com/4dpanda_ci/app/Views/frontend/home.php')
+11 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+13 APPPATH/Controllers/Home.php(132): view()
+14 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->myresultsindex()
+15 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+16 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+17 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+19 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

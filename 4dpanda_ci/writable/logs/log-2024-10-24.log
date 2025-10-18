@@ -1,0 +1,189 @@
+CRITICAL - 2024-10-24 00:03:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ";stok="
+[Method: GET, Route: cgi-bin/luci/;stok=/locale]
+in SYSTEMPATH/Router/Router.php on line 736.
+ 1 SYSTEMPATH/Router/Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-10-24 00:03:55 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ";stok="
+[Method: GET, Route: cgi-bin/luci/;stok=/locale]
+in SYSTEMPATH/Router/Router.php on line 736.
+ 1 SYSTEMPATH/Router/Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2024-10-24 05:47:44 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ";"
+[Method: GET, Route: s/lkx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties]
+in SYSTEMPATH/Router/Router.php on line 736.
+ 1 SYSTEMPATH/Router/Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-10-24 12:14:12 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-10-24 12:14:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: history/6151]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-10-24 12:14:23 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-10-24 12:14:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: history/2776]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2024-10-24 12:14:30 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php(186): mysqli->real_connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#8 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#14 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /var/www/4dpanda.com/4dpanda_ci/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/4dpanda.com/4dpanda_ci/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/4dpanda.com/4dpanda_ci/system/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/4dpanda.com/4dpanda_ci/system/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+#5 /var/www/4dpanda.com/4dpanda_ci/app/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+#6 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+#7 /var/www/4dpanda.com/4dpanda_ci/app/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+#8 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+#9 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/4dpanda.com/4dpanda_ci/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 /var/www/4dpanda.com/4dpanda_ci/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#13 /var/www/4dpanda.com/public_html/index.php(56): CodeIgniter\Boot::bootWeb()
+#14 {main}
+CRITICAL - 2024-10-24 12:14:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: history/3806]
+in SYSTEMPATH/Database/BaseConnection.php on line 457.
+ 1 SYSTEMPATH/Database/BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Models/NumberHistoryModel.php(58): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/SearchController.php(246): App\Models\NumberHistoryModel->getResultsByNumbers()
+ 7 APPPATH/Controllers/SearchController.php(27): App\Controllers\SearchController->searchDatabase()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\SearchController->numberIndex()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
