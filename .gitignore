@@ -1,0 +1,120 @@
+#########################
+# CodeIgniter 4 - Security & Privacy
+#########################
+
+# CRITICAL: Firebase Credentials
+4dpanda_ci/writable/live-4d-results-*.json
+4dpanda_ci/writable/*firebase*.json
+*firebase-adminsdk*.json
+*.json.key
+*serviceAccountKey.json
+
+# Environment Files (Database credentials, API keys, etc.)
+.env
+.env.*
+!.env.example
+4dpanda_ci/app/Config/Database.php
+4dpanda_ci/app/Config/Email.php
+4dpanda_ci/app/Config/Encryption.php
+
+# Writable Directory (Logs, Cache, Sessions, Uploads)
+4dpanda_ci/writable/cache/*
+!4dpanda_ci/writable/cache/index.html
+4dpanda_ci/writable/logs/*
+!4dpanda_ci/writable/logs/index.html
+4dpanda_ci/writable/session/*
+!4dpanda_ci/writable/session/index.html
+4dpanda_ci/writable/debugbar/*
+4dpanda_ci/writable/uploads/*
+!4dpanda_ci/writable/uploads/index.html
+
+# Vendor Directory (Composer dependencies)
+4dpanda_ci/vendor/
+!4dpanda_ci/vendor/.htaccess
+
+# System Temporary Files
+*.log
+*.cache
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.buildpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Composer
+composer.phar
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+phpunit.xml
+
+# Node.js (if using for frontend build)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build & Distribution
+/build/
+/dist/
+*.min.js
+*.min.css
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Database Exports
+*.sql
+*.sqlite
+*.db
+
+#########################
+# IMPORTANT FILES TO KEEP
+#########################
+
+# Keep these for reference
+!.env.example
+!writable/index.html
+!writable/*/index.html
+!README.md
+!LICENSE
+!composer.json
+!phpunit.xml.dist
+
+#########################
+# Custom Ignores
+#########################
+
+# Test files
+/tests/coverage/
+/tests/_output/
+
+# Documentation
+/docs/build/
+
