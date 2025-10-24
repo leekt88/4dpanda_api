@@ -283,6 +283,61 @@ class Home extends Controller
         $data = $this->fetchByType($types);
         return $this->response->setJSON($data);
     }
+    
+    /**
+     * API endpoint for special draw dates
+     * Returns formatted special draw dates for current and upcoming years
+     */
+    public function apiSpecialDraw(){
+        $current_year = date('Y');
+        $next_year = $current_year + 1;
+        
+        $result = array();
+        
+        // Get special draws for current year and next year
+        foreach (array($current_year, $next_year) as $year) {
+            $special_draw_data = $this->settingModel->where([
+                'option_type' => 'special_draw', 
+                'option_name' => (string)$year
+            ])->first();
+            
+            if ($special_draw_data && !empty($special_draw_data['option_value'])) {
+                // Parse semicolon-separated dates
+                $dates = explode(";", $special_draw_data['option_value']);
+                $formatted_draws = array();
+                
+                foreach ($dates as $date) {
+                    $date = trim($date);
+                    if (empty($date)) continue;
+                    
+                    // Create DateTime object
+                    $date_obj = \DateTime::createFromFormat('Y-m-d', $date);
+                    if ($date_obj) {
+                        $formatted_draws[] = array(
+                            'date' => $date,
+                            'formatted_date' => $date_obj->format('d-M-Y (D)'),
+                            'day_name' => $date_obj->format('l'),
+                            'games' => array('M4D', 'DMC4D', 'TT', 'SB', 'SCS', 'STC')
+                        );
+                    }
+                }
+                
+                if (!empty($formatted_draws)) {
+                    $result[$year] = $formatted_draws;
+                }
+            }
+        }
+        
+        // Return formatted response
+        return $this->response->setJSON(array(
+            'data' => $result,
+            'meta' => array(
+                'last_updated' => date('Y-m-d H:i:s'),
+                'years_available' => array_keys($result)
+            )
+        ));
+    }
+    
     public function specialDrawIndex(){
         $data = $this->settingModel->getSpecialDraw();
         $uri = $this->getUri();

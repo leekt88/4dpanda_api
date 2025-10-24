@@ -15,54 +15,6 @@ class LotteryData extends Controller
     }
     public function fetchAll()
     {
-        // ============================================
-        // TEMPORARY: Return sample data for testing
-        // TODO: Remove this and uncomment database code below
-        // ============================================
-        
-        $sampleData = [
-            '_test_info' => [
-                'server' => '4dpanda.com',
-                'database' => '4dpanda_db',
-                'mode' => 'SAMPLE_DATA',
-                'timestamp' => date('Y-m-d H:i:s'),
-                'message' => 'This is SAMPLE data from 4dpanda.com server for testing'
-            ],
-            'M4D' => [
-                'C1' => '2417',
-                'C2' => '4254',
-                'P1' => '3290',
-                'P2' => '2834',
-                'P3' => '7976',
-                'DD' => date('d-m-Y') . ' (Sample)',
-                'S_T' => '19:00:00',
-                'COMPLETE4D' => 1
-            ],
-            'DMC4D' => [
-                'P1' => '6065',
-                'P2' => '1114',
-                'P3' => '2484',
-                'DD' => date('d-m-Y') . ' (Sample)',
-                'S_T' => '19:00:00',
-                'COMPLETE4D' => 1
-            ],
-            'TT' => [
-                'P1' => '3687',
-                'P2' => '6722',
-                'P3' => '3794',
-                'DD' => date('d-m-Y') . ' (Sample)',
-                'S_T' => '19:00:00',
-                'COMPLETE4D' => 1
-            ]
-        ];
-        
-        return $this->response->setJSON($sampleData);
-        
-        /* ============================================
-         * ORIGINAL DATABASE CODE (COMMENTED OUT)
-         * Uncomment this when ready to use real data
-         * ============================================
-        
         $model = new LotteryModel();
         $names = [
             //'M' => 'Magnum 4D',
@@ -103,8 +55,6 @@ class LotteryData extends Controller
         //var_dump($respone);
         //return view('frontend/home');//, $data);
         return $this->response->setJSON($respone);
-        
-        ============================================ */
     }
     public function past_results_index()
     {
